@@ -1,5 +1,9 @@
 <script setup lang="ts">
-import { onBeforeMount } from "vue";
+import FormVue from "./components/Form.vue";
 </script>
 
-<template></template>
+<template>
+  <div>
+    <FormVue />
+  </div>
+</template>

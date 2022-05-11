@@ -1,5 +1,5 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { onBeforeMount } from "vue";
+</script>
 
-<template>
-  <div>Hi from Login</div>
-</template>
+<template></template>
